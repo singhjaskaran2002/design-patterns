@@ -1,0 +1,3 @@
+## Prototype Pattern
+
+The **Prototype Pattern** is a design pattern that allows you to create new objects from existing objects, also known as prototypes. Rather than creating a new object from scratch, you can create a copy of an existing object and modify it as needed. This can be useful in situations where creating a new object is costly in terms of time or resources. By using the Prototype Pattern, you can save time and resources by reusing existing objects instead of creating new ones from scratch.
