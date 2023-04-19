@@ -64,3 +64,12 @@ decoratedWithPlayMusic.playMusic();
 
 // Play video on the decorated mobileY instance that has the functionality of playing video
 decoratedWithPlayVideo.playVideo();
+
+/******************************************
+    OUTPUT:
+
+    FM started on device MobileX!
+    FM started on device MobileY!
+    Music has been started on MobileX
+    Video has been started on MobileY
+*******************************************/
